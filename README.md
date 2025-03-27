@@ -88,23 +88,5 @@ This generates `function_style_metrics.csv` containing all metrics and vectors.
 
 ---
 
-## 📈 Visualization | 可视化
 
-- Radar chart of style metrics | 函数风格雷达图
-- Bar chart of scores | 综合评分柱状图
-- Scatter plot (comment ratio vs call depth) | 注释率 vs 嵌套结构散点图
 
----
-
-## 🔧 Coming Soon | 后续支持计划
-
-- ✅ JSD distance support | 支持 JSD 散度
-- ✅ Encoding as image input | 风格编码图像化
-- ✅ Average style vector per user | 构建用户平均风格向量
-
----
-
-## 🤝 Contact | 联系作者
-
-Need custom style evaluators, training pipelines, or scoring APIs?
-欢迎联系作者协作开发，如需定制风格对比、结构提取、风格分类器等。
