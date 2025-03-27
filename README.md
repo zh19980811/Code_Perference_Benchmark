@@ -87,6 +87,9 @@ This generates `function_style_metrics.csv` containing all metrics and vectors.
 | `style_dist_dunder_method` | __dunder__ methods | 魔术方法命名个数 |
 
 ---
+![全维度量化雷达图](Figure_1.png)
+![全维度](Figure_2.png)
+![全维度量化条形图](Figure_3.png)
 
 
 
